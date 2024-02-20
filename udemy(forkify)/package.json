@@ -1,13 +1,13 @@
 {
   "name": "forkify",
   "version": "1.0.0",
-  "description": "Recipe application",
+  "description": "Recipe Application",
   "default": "index.html",
   "scripts": {
     "start": "rmdir /s /q .cache && parcel index.html",
     "build": "rmdir /s /q .cache && parcel build index.html --dist-dir ./dist"
   },
-  "author": "Nisha",
+  "author": "Jenisha",
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.11.0",
